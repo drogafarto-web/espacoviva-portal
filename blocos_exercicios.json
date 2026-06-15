@@ -1,0 +1,1826 @@
+{
+  "AQ-001": [
+    {
+      "name": "Alongamento Dinamico",
+      "comments": "3min"
+    },
+    {
+      "name": "Mobilidade Articular",
+      "comments": "2min"
+    }
+  ],
+  "AQ-002": [
+    {
+      "name": "Alongamento Dinamico Suave",
+      "comments": "3min"
+    },
+    {
+      "name": "Mobilidade Articular Leve",
+      "comments": "2min"
+    }
+  ],
+  "AQ-003": [
+    {
+      "name": "Rotacao de Ombro com Faixa Elastica",
+      "comments": "2x15"
+    },
+    {
+      "name": "Alongamento Dinamico Superior",
+      "comments": "3min"
+    }
+  ],
+  "AQ-004": [
+    {
+      "name": "Mobilidade de Quadril",
+      "comments": "2min"
+    },
+    {
+      "name": "Alongamento Dinamico Inferior",
+      "comments": "3min"
+    }
+  ],
+  "AQ-005": [
+    {
+      "name": "Esteira Leve",
+      "comments": "2min"
+    },
+    {
+      "name": "Esteira Moderada",
+      "comments": "3min"
+    },
+    {
+      "name": "Tiro Curto Esteira",
+      "comments": "15s 3x"
+    }
+  ],
+  "AQ-006": [
+    {
+      "name": "Agachamento Peso Corporal",
+      "comments": "1x10"
+    },
+    {
+      "name": "Passada sem Carga",
+      "comments": "1x8 cada"
+    },
+    {
+      "name": "Polichinelo",
+      "comments": "1x30s"
+    }
+  ],
+  "PE-011": [
+    {
+      "name": "Supino Reto Barra",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Crucifixo Maquina",
+      "comments": "3x12-15"
+    }
+  ],
+  "PE-012": [
+    {
+      "name": "Supino Maquina Vertical",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Crucifixo Maquina",
+      "comments": "3x12-15"
+    }
+  ],
+  "PE-013": [
+    {
+      "name": "Supino Reto Barra",
+      "comments": "4x8-10"
+    },
+    {
+      "name": "Supino Inclin Halteres",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Crucifixo Maquina",
+      "comments": "3x10-12"
+    }
+  ],
+  "PE-014": [
+    {
+      "name": "Supino Reto Barra",
+      "comments": "4x6-8"
+    },
+    {
+      "name": "Supino Inclin Halteres",
+      "comments": "4x8-10"
+    },
+    {
+      "name": "Crucifixo Inclinado Maquina",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Peck Deck Voando",
+      "comments": "3x12-15"
+    }
+  ],
+  "PE-016": [
+    {
+      "name": "Supino Reto Halteres",
+      "comments": "3x12-15"
+    },
+    {
+      "name": "Crucifixo Maquina",
+      "comments": "3x12-15"
+    }
+  ],
+  "PE-017": [
+    {
+      "name": "Supino Reto Barra",
+      "comments": "4x5-8"
+    },
+    {
+      "name": "Supino Inclin Halteres",
+      "comments": "3x6-8"
+    }
+  ],
+  "PE-018": [
+    {
+      "name": "Supino Reto Barra",
+      "comments": "5x3-5"
+    },
+    {
+      "name": "Supino Inclin Halteres",
+      "comments": "4x5-6"
+    },
+    {
+      "name": "Crucifixo Inclinado Maquina",
+      "comments": "3x6-8"
+    }
+  ],
+  "CO-026": [
+    {
+      "name": "Puxada Costas Frente",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Remada Baixa Triangulo",
+      "comments": "3x10-12"
+    }
+  ],
+  "CO-027": [
+    {
+      "name": "Puxada Costas Triangulo",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Remada Baixa Triangulo",
+      "comments": "3x12-15"
+    }
+  ],
+  "CO-028": [
+    {
+      "name": "Barra Fixa",
+      "comments": "4x"
+    },
+    {
+      "name": "Remada Curvada Barra",
+      "comments": "4x8-10"
+    },
+    {
+      "name": "Puxada Costas Frente",
+      "comments": "3x10-12"
+    }
+  ],
+  "CO-029": [
+    {
+      "name": "Puxada Costas Triangulo",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Remada Cavalinho Halteres",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Remada Baixa Triangulo",
+      "comments": "3x12-15"
+    }
+  ],
+  "CO-031": [
+    {
+      "name": "Puxada Costas Frente",
+      "comments": "3x12-15"
+    },
+    {
+      "name": "Remada Baixa Triangulo",
+      "comments": "3x12-15"
+    }
+  ],
+  "CO-032": [
+    {
+      "name": "Barra Fixa",
+      "comments": "4x"
+    },
+    {
+      "name": "Remada Curvada Barra",
+      "comments": "4x5-8"
+    }
+  ],
+  "CO-033": [
+    {
+      "name": "Barra Fixa",
+      "comments": "5x"
+    },
+    {
+      "name": "Remada Curvada Barra",
+      "comments": "5x3-5"
+    },
+    {
+      "name": "Puxada Costas Frente",
+      "comments": "3x6-8"
+    }
+  ],
+  "OM-046": [
+    {
+      "name": "Desenvolvimento Halteres",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Elevacao Lateral Halteres",
+      "comments": "3x12-15"
+    }
+  ],
+  "OM-047": [
+    {
+      "name": "Desenvolvimento Barra",
+      "comments": "4x8-10"
+    },
+    {
+      "name": "Elevacao Lateral Halteres",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Crucifixo Inverso Maquina",
+      "comments": "3x12-15"
+    }
+  ],
+  "OM-048": [
+    {
+      "name": "Desenvolvimento Barra",
+      "comments": "4x6-8"
+    },
+    {
+      "name": "Elevacao Lateral Halteres",
+      "comments": "4x10-12"
+    },
+    {
+      "name": "Crucifixo Inverso Maquina",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Encolhimento Barra",
+      "comments": "3x10-12"
+    }
+  ],
+  "OM-049": [
+    {
+      "name": "Desenvolvimento Halteres",
+      "comments": "3x12-15"
+    },
+    {
+      "name": "Elevacao Lateral Halteres",
+      "comments": "3x15-20"
+    }
+  ],
+  "OM-050": [
+    {
+      "name": "Desenvolvimento Barra",
+      "comments": "4x5-8"
+    },
+    {
+      "name": "Elevacao Lateral Halteres",
+      "comments": "3x8-10"
+    }
+  ],
+  "OM-051": [
+    {
+      "name": "Desenvolvimento Barra",
+      "comments": "5x3-5"
+    },
+    {
+      "name": "Elevacao Lateral Halteres",
+      "comments": "4x6-8"
+    },
+    {
+      "name": "Crucifixo Inverso Maquina",
+      "comments": "3x6-8"
+    }
+  ],
+  "BI-061": [
+    {
+      "name": "Rosca Direta Barra",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Rosca Martelo",
+      "comments": "3x10-12"
+    }
+  ],
+  "BI-062": [
+    {
+      "name": "Rosca Direta Barra",
+      "comments": "4x8-10"
+    },
+    {
+      "name": "Rosca Alternada Halteres",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Rosca Scott",
+      "comments": "3x10-12"
+    }
+  ],
+  "BI-063": [
+    {
+      "name": "Rosca Direta Barra",
+      "comments": "4x6-8"
+    },
+    {
+      "name": "Rosca Alternada Halteres",
+      "comments": "3x8-10"
+    },
+    {
+      "name": "Rosca Scott",
+      "comments": "3x8-10"
+    },
+    {
+      "name": "Rosca Concentrada",
+      "comments": "3x10-12"
+    }
+  ],
+  "BI-064": [
+    {
+      "name": "Rosca Direta Halteres",
+      "comments": "3x12-15"
+    },
+    {
+      "name": "Rosca Martelo",
+      "comments": "3x12-15"
+    }
+  ],
+  "BI-065": [
+    {
+      "name": "Rosca Direta Barra",
+      "comments": "4x5-8"
+    },
+    {
+      "name": "Rosca Alternada Halteres",
+      "comments": "3x6-8"
+    }
+  ],
+  "TR-071": [
+    {
+      "name": "Triceps Corda",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Triceps Banco",
+      "comments": "3x10-12"
+    }
+  ],
+  "TR-072": [
+    {
+      "name": "Triceps Frances Polia",
+      "comments": "4x8-10"
+    },
+    {
+      "name": "Triceps Corda",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Triceps Banco",
+      "comments": "3x10-12"
+    }
+  ],
+  "TR-073": [
+    {
+      "name": "Triceps Testa Barra W",
+      "comments": "4x6-8"
+    },
+    {
+      "name": "Triceps Frances Polia",
+      "comments": "3x8-10"
+    },
+    {
+      "name": "Triceps Corda",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Triceps Banco",
+      "comments": "3x10-12"
+    }
+  ],
+  "TR-074": [
+    {
+      "name": "Triceps Corda",
+      "comments": "3x12-15"
+    },
+    {
+      "name": "Triceps Banco",
+      "comments": "3x12-15"
+    }
+  ],
+  "TR-075": [
+    {
+      "name": "Triceps Testa Barra W",
+      "comments": "4x5-8"
+    },
+    {
+      "name": "Triceps Frances Polia",
+      "comments": "3x6-8"
+    }
+  ],
+  "AN-081": [
+    {
+      "name": "Rosca Punho Barra",
+      "comments": "3x15-20"
+    }
+  ],
+  "AN-082": [
+    {
+      "name": "Rosca Punho Barra",
+      "comments": "4x8-12"
+    }
+  ],
+  "BR-086": [
+    {
+      "name": "Rosca Direta Barra",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Triceps Corda",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Rosca Martelo",
+      "comments": "3x10-12"
+    }
+  ],
+  "BR-087": [
+    {
+      "name": "Rosca Direta Barra",
+      "comments": "4x8-10"
+    },
+    {
+      "name": "Triceps Testa Barra W",
+      "comments": "4x8-10"
+    },
+    {
+      "name": "Rosca Alternada Halteres",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Triceps Frances Polia",
+      "comments": "3x10-12"
+    }
+  ],
+  "BR-088": [
+    {
+      "name": "Rosca Direta Barra",
+      "comments": "4x6-8"
+    },
+    {
+      "name": "Triceps Testa Barra W",
+      "comments": "4x6-8"
+    },
+    {
+      "name": "Rosca Scott",
+      "comments": "3x8-10"
+    },
+    {
+      "name": "Triceps Frances Polia",
+      "comments": "3x8-10"
+    },
+    {
+      "name": "Rosca Concentrada",
+      "comments": "3x10-12"
+    }
+  ],
+  "PQ-096": [
+    {
+      "name": "Leg Press 45",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Extensora",
+      "comments": "3x12-15"
+    }
+  ],
+  "PQ-097": [
+    {
+      "name": "Agachamento Livre",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Extensora",
+      "comments": "3x12-15"
+    }
+  ],
+  "PQ-098": [
+    {
+      "name": "Agachamento Livre",
+      "comments": "4x8-10"
+    },
+    {
+      "name": "Leg Press 45",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Extensora",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Afundo Halteres",
+      "comments": "3x10 cada"
+    }
+  ],
+  "PQ-099": [
+    {
+      "name": "Agachamento Livre",
+      "comments": "4x6-8"
+    },
+    {
+      "name": "Leg Press 45",
+      "comments": "4x8-10"
+    },
+    {
+      "name": "Extensora",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Afundo Halteres",
+      "comments": "3x10 cada"
+    },
+    {
+      "name": "Avanco Halteres",
+      "comments": "3x10 cada"
+    }
+  ],
+  "PQ-100": [
+    {
+      "name": "Leg Press 45",
+      "comments": "3x12-15"
+    },
+    {
+      "name": "Extensora",
+      "comments": "3x12-15"
+    },
+    {
+      "name": "Afundo Halteres",
+      "comments": "3x12 cada"
+    }
+  ],
+  "PQ-101": [
+    {
+      "name": "Agachamento Livre",
+      "comments": "5x3-5"
+    },
+    {
+      "name": "Leg Press 45",
+      "comments": "4x6-8"
+    }
+  ],
+  "PQ-102": [
+    {
+      "name": "Agachamento Livre",
+      "comments": "5x2-4"
+    },
+    {
+      "name": "Leg Press 45",
+      "comments": "4x5-6"
+    },
+    {
+      "name": "Afundo Halteres",
+      "comments": "3x6-8 cada"
+    }
+  ],
+  "PG-116": [
+    {
+      "name": "Flexora",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Stiff Barra",
+      "comments": "3x10-12"
+    }
+  ],
+  "PG-117": [
+    {
+      "name": "Elevacao Pelvica",
+      "comments": "3x12-15"
+    },
+    {
+      "name": "Flexora",
+      "comments": "3x12-15"
+    },
+    {
+      "name": "Cadeira Abdutora",
+      "comments": "3x12-15"
+    }
+  ],
+  "PG-118": [
+    {
+      "name": "Stiff Barra",
+      "comments": "4x8-10"
+    },
+    {
+      "name": "Flexora",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Elevacao Pelvica Barra",
+      "comments": "3x10-12"
+    }
+  ],
+  "PG-119": [
+    {
+      "name": "Stiff Barra",
+      "comments": "4x6-8"
+    },
+    {
+      "name": "Flexora",
+      "comments": "4x8-10"
+    },
+    {
+      "name": "Elevacao Pelvica Barra",
+      "comments": "4x8-10"
+    },
+    {
+      "name": "Cadeira Abdutora",
+      "comments": "3x10-12"
+    }
+  ],
+  "PG-120": [
+    {
+      "name": "Stiff Barra",
+      "comments": "3x12-15"
+    },
+    {
+      "name": "Flexora",
+      "comments": "3x12-15"
+    }
+  ],
+  "PG-121": [
+    {
+      "name": "Stiff Barra",
+      "comments": "4x5-8"
+    },
+    {
+      "name": "Elevacao Pelvica Barra",
+      "comments": "4x6-8"
+    }
+  ],
+  "PG-122": [
+    {
+      "name": "Stiff Barra",
+      "comments": "5x3-5"
+    },
+    {
+      "name": "Flexora",
+      "comments": "4x5-8"
+    }
+  ],
+  "GL-136": [
+    {
+      "name": "Elevacao Pelvica",
+      "comments": "3x12-15"
+    },
+    {
+      "name": "Mini Band Lateral Walk",
+      "comments": "3x12 cada"
+    }
+  ],
+  "GL-137": [
+    {
+      "name": "Elevacao Pelvica Barra",
+      "comments": "4x8-10"
+    },
+    {
+      "name": "Cadeira Abdutora",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Extensao Quadril Caneleira",
+      "comments": "3x10-12"
+    }
+  ],
+  "GL-138": [
+    {
+      "name": "Elevacao Pelvica Barra",
+      "comments": "4x6-8"
+    },
+    {
+      "name": "Stiff Barra",
+      "comments": "3x8-10"
+    },
+    {
+      "name": "Cadeira Abdutora",
+      "comments": "3x10-12"
+    },
+    {
+      "name": "Mini Band Lateral Walk",
+      "comments": "3x12 cada"
+    }
+  ],
+  "GL-139": [
+    {
+      "name": "Mini Band Lateral Walk",
+      "comments": "3x15 cada"
+    },
+    {
+      "name": "Extensao Quadril Caneleira",
+      "comments": "3x12-15"
+    },
+    {
+      "name": "Elevacao Pelvica",
+      "comments": "3x15-20"
+    }
+  ],
+  "AB-146": [
+    {
+      "name": "Prancha",
+      "comments": "3x20-30s"
+    },
+    {
+      "name": "Abdominal Supra",
+      "comments": "3x10-12"
+    }
+  ],
+  "AB-147": [
+    {
+      "name": "Prancha",
+      "comments": "3x30-45s"
+    },
+    {
+      "name": "Abdominal Bicicleta",
+      "comments": "3x15 cada"
+    },
+    {
+      "name": "Roda Abdominal Rollout",
+      "comments": "3x8"
+    }
+  ],
+  "AB-148": [
+    {
+      "name": "Prancha",
+      "comments": "4x45-60s"
+    },
+    {
+      "name": "Abdominal Bicicleta",
+      "comments": "4x20 cada"
+    },
+    {
+      "name": "Roda Abdominal Rollout",
+      "comments": "3x10"
+    },
+    {
+      "name": "Prancha Lateral",
+      "comments": "3x30s cada"
+    }
+  ],
+  "AB-149": [
+    {
+      "name": "Prancha",
+      "comments": "3x30-45s"
+    },
+    {
+      "name": "Abdominal Supra",
+      "comments": "3x15-20"
+    },
+    {
+      "name": "Abdominal Bicicleta",
+      "comments": "3x15 cada"
+    }
+  ],
+  "AB-150": [
+    {
+      "name": "Roda Abdominal Rollout",
+      "comments": "4x6-8"
+    },
+    {
+      "name": "Prancha",
+      "comments": "4x30-45s"
+    },
+    {
+      "name": "Prancha Lateral",
+      "comments": "3x30s cada"
+    }
+  ],
+  "AB-151": [
+    {
+      "name": "Prancha",
+      "comments": "3x30s"
+    },
+    {
+      "name": "Abdominal Bicicleta",
+      "comments": "2x15 cada"
+    }
+  ],
+  "PA-161": [
+    {
+      "name": "Panturrilha Pe",
+      "comments": "3x15-20"
+    }
+  ],
+  "PA-162": [
+    {
+      "name": "Panturrilha Standing",
+      "comments": "4x8-12"
+    }
+  ],
+  "FB-166": [
+    {
+      "name": "Leg Press 45",
+      "comments": "3x10"
+    },
+    {
+      "name": "Supino Vertical Maquina",
+      "comments": "3x10"
+    },
+    {
+      "name": "Puxada Costas Frente",
+      "comments": "3x10"
+    },
+    {
+      "name": "Desenvolvimento Halteres",
+      "comments": "3x10"
+    },
+    {
+      "name": "Extensora",
+      "comments": "3x10"
+    },
+    {
+      "name": "Rosca Direta Barra",
+      "comments": "3x10"
+    },
+    {
+      "name": "Triceps Corda",
+      "comments": "3x12"
+    },
+    {
+      "name": "Prancha",
+      "comments": "3x30s"
+    }
+  ],
+  "FB-167": [
+    {
+      "name": "Agachamento Livre",
+      "comments": "3x10"
+    },
+    {
+      "name": "Supino Reto Halteres",
+      "comments": "3x10"
+    },
+    {
+      "name": "Remada Curvada Barra",
+      "comments": "3x10"
+    },
+    {
+      "name": "Elevacao Lateral Halteres",
+      "comments": "3x12"
+    },
+    {
+      "name": "Flexora",
+      "comments": "3x10"
+    },
+    {
+      "name": "Rosca Martelo",
+      "comments": "3x10"
+    },
+    {
+      "name": "Triceps Banco",
+      "comments": "3x12"
+    },
+    {
+      "name": "Prancha",
+      "comments": "3x30s"
+    }
+  ],
+  "FB-168": [
+    {
+      "name": "Agachamento Livre",
+      "comments": "3x10"
+    },
+    {
+      "name": "Puxada Costas Triangulo",
+      "comments": "3x10"
+    },
+    {
+      "name": "Supino Vertical Maquina",
+      "comments": "3x10"
+    },
+    {
+      "name": "Cadeira Abdutora",
+      "comments": "3x12"
+    },
+    {
+      "name": "Desenvolvimento Halteres",
+      "comments": "3x10"
+    },
+    {
+      "name": "Extensora",
+      "comments": "3x10"
+    },
+    {
+      "name": "Rosca Direta Halteres",
+      "comments": "3x10"
+    },
+    {
+      "name": "Triceps Banco",
+      "comments": "3x12"
+    }
+  ],
+  "FB-169": [
+    {
+      "name": "Avanco Halteres",
+      "comments": "3x10"
+    },
+    {
+      "name": "Remada Baixa Triangulo",
+      "comments": "3x10"
+    },
+    {
+      "name": "Crucifixo Maquina",
+      "comments": "3x12"
+    },
+    {
+      "name": "Elevacao Pelvica",
+      "comments": "3x12"
+    },
+    {
+      "name": "Elevacao Lateral Halteres",
+      "comments": "3x12"
+    },
+    {
+      "name": "Flexora",
+      "comments": "3x10"
+    },
+    {
+      "name": "Rosca Concentrada",
+      "comments": "3x10"
+    },
+    {
+      "name": "Prancha Lateral",
+      "comments": "3x20s"
+    }
+  ],
+  "FB-170": [
+    {
+      "name": "Leg Press 45",
+      "comments": "3x12"
+    },
+    {
+      "name": "Remada Curvada Barra",
+      "comments": "3x12"
+    },
+    {
+      "name": "Supino Reto Halteres",
+      "comments": "3x12"
+    },
+    {
+      "name": "Agachamento Livre",
+      "comments": "3x12"
+    },
+    {
+      "name": "Puxada Costas Frente",
+      "comments": "3x12"
+    },
+    {
+      "name": "Elevacao Lateral Halteres",
+      "comments": "3x12"
+    },
+    {
+      "name": "Rosca Martelo",
+      "comments": "3x12"
+    },
+    {
+      "name": "Triceps Corda",
+      "comments": "3x12"
+    }
+  ],
+  "FB-171": [
+    {
+      "name": "Agachamento Livre",
+      "comments": "3x10"
+    },
+    {
+      "name": "Supino Reto Halteres",
+      "comments": "3x10"
+    },
+    {
+      "name": "Remada Curvada Barra",
+      "comments": "3x10"
+    },
+    {
+      "name": "Desenvolvimento Halteres",
+      "comments": "3x10"
+    },
+    {
+      "name": "Rosca Martelo",
+      "comments": "3x10"
+    },
+    {
+      "name": "Triceps Corda",
+      "comments": "3x10"
+    },
+    {
+      "name": "Prancha",
+      "comments": "2x30s"
+    }
+  ],
+  "FB-172": [
+    {
+      "name": "Agachamento Livre",
+      "comments": "3x12"
+    },
+    {
+      "name": "Remada Curvada Barra",
+      "comments": "3x12"
+    },
+    {
+      "name": "Supino Reto Halteres",
+      "comments": "3x12"
+    },
+    {
+      "name": "Avanco Halteres",
+      "comments": "3x12 cada"
+    },
+    {
+      "name": "Elevacao Lateral Halteres",
+      "comments": "3x12"
+    },
+    {
+      "name": "Rosca Martelo",
+      "comments": "3x12"
+    },
+    {
+      "name": "Triceps Testa Barra W",
+      "comments": "3x12"
+    },
+    {
+      "name": "Abdominal Supra",
+      "comments": "3x15"
+    },
+    {
+      "name": "Escada Ritmo Constante",
+      "comments": "10min"
+    }
+  ],
+  "FB-173": [
+    {
+      "name": "Leg Press 45",
+      "comments": "3x10"
+    },
+    {
+      "name": "Puxada Costas Frente",
+      "comments": "3x10"
+    },
+    {
+      "name": "Supino Maquina Vertical",
+      "comments": "3x10"
+    },
+    {
+      "name": "Cadeira Abdutora",
+      "comments": "3x10"
+    },
+    {
+      "name": "Desenvolvimento Halteres",
+      "comments": "2x10"
+    },
+    {
+      "name": "Extensora",
+      "comments": "2x10"
+    },
+    {
+      "name": "Prancha",
+      "comments": "2x15-20s"
+    },
+    {
+      "name": "Alongamento Dinamico",
+      "comments": "3min"
+    }
+  ],
+  "UL-186": [
+    {
+      "name": "Supino Reto Barra",
+      "comments": "4x8"
+    },
+    {
+      "name": "Remada Curvada Barra",
+      "comments": "4x8"
+    },
+    {
+      "name": "Supino Inclin Halteres",
+      "comments": "3x10"
+    },
+    {
+      "name": "Puxada Costas Frente",
+      "comments": "3x10"
+    },
+    {
+      "name": "Desenvolvimento Halteres",
+      "comments": "3x10"
+    },
+    {
+      "name": "Elevacao Lateral Halteres",
+      "comments": "3x12"
+    },
+    {
+      "name": "Rosca Direta Barra",
+      "comments": "3x10"
+    },
+    {
+      "name": "Triceps Frances Polia",
+      "comments": "3x10"
+    }
+  ],
+  "UL-187": [
+    {
+      "name": "Agachamento Livre",
+      "comments": "4x8"
+    },
+    {
+      "name": "Leg Press 45",
+      "comments": "3x10"
+    },
+    {
+      "name": "Stiff Barra",
+      "comments": "3x10"
+    },
+    {
+      "name": "Flexora",
+      "comments": "3x10"
+    },
+    {
+      "name": "Extensora",
+      "comments": "3x10"
+    },
+    {
+      "name": "Panturrilha Pe",
+      "comments": "3x15"
+    },
+    {
+      "name": "Prancha",
+      "comments": "3x45s"
+    }
+  ],
+  "UL-188": [
+    {
+      "name": "Supino Inclin Halteres",
+      "comments": "4x8"
+    },
+    {
+      "name": "Puxada Costas Triangulo",
+      "comments": "4x8"
+    },
+    {
+      "name": "Crucifixo Maquina",
+      "comments": "3x10"
+    },
+    {
+      "name": "Remada Baixa Triangulo",
+      "comments": "3x10"
+    },
+    {
+      "name": "Desenvolvimento Barra",
+      "comments": "3x8"
+    },
+    {
+      "name": "Crucifixo Inverso Maquina",
+      "comments": "3x12"
+    },
+    {
+      "name": "Rosca Alternada Halteres",
+      "comments": "3x10"
+    },
+    {
+      "name": "Triceps Testa Barra W",
+      "comments": "3x10"
+    }
+  ],
+  "UL-189": [
+    {
+      "name": "Leg Press 45",
+      "comments": "4x8"
+    },
+    {
+      "name": "Afundo Halteres",
+      "comments": "3x10 cada"
+    },
+    {
+      "name": "Elevacao Pelvica Barra",
+      "comments": "3x10"
+    },
+    {
+      "name": "Stiff Barra",
+      "comments": "3x10"
+    },
+    {
+      "name": "Cadeira Abdutora",
+      "comments": "3x12"
+    },
+    {
+      "name": "Panturrilha Standing",
+      "comments": "3x12"
+    },
+    {
+      "name": "Prancha",
+      "comments": "3x45s"
+    }
+  ],
+  "UL-190": [
+    {
+      "name": "Supino Reto Halteres",
+      "comments": "3x10"
+    },
+    {
+      "name": "Puxada Costas Triangulo",
+      "comments": "3x10"
+    },
+    {
+      "name": "Supino Inclin Halteres",
+      "comments": "3x10"
+    },
+    {
+      "name": "Remada Cavalinho Halteres",
+      "comments": "3x10"
+    },
+    {
+      "name": "Desenvolvimento Halteres",
+      "comments": "3x10"
+    },
+    {
+      "name": "Elevacao Lateral Halteres",
+      "comments": "3x12"
+    },
+    {
+      "name": "Rosca Concentrada",
+      "comments": "3x10"
+    },
+    {
+      "name": "Triceps Corda",
+      "comments": "3x12"
+    }
+  ],
+  "UL-191": [
+    {
+      "name": "Agachamento Livre",
+      "comments": "3x10"
+    },
+    {
+      "name": "Elevacao Pelvica Barra",
+      "comments": "4x10"
+    },
+    {
+      "name": "Cadeira Abdutora",
+      "comments": "3x12"
+    },
+    {
+      "name": "Leg Press 45",
+      "comments": "3x10"
+    },
+    {
+      "name": "Flexora",
+      "comments": "3x10"
+    },
+    {
+      "name": "Panturrilha Pe",
+      "comments": "3x15"
+    },
+    {
+      "name": "Prancha",
+      "comments": "3x30s"
+    }
+  ],
+  "PP-206": [
+    {
+      "name": "Supino Reto Barra",
+      "comments": "4x6"
+    },
+    {
+      "name": "Supino Inclin Halteres",
+      "comments": "3x8"
+    },
+    {
+      "name": "Crucifixo Maquina",
+      "comments": "3x10"
+    },
+    {
+      "name": "Desenvolvimento Barra",
+      "comments": "4x6"
+    },
+    {
+      "name": "Elevacao Lateral Halteres",
+      "comments": "3x8"
+    },
+    {
+      "name": "Triceps Frances Polia",
+      "comments": "3x8"
+    },
+    {
+      "name": "Triceps Banco",
+      "comments": "3x10"
+    }
+  ],
+  "PB-216": [
+    {
+      "name": "Barra Fixa",
+      "comments": "4x"
+    },
+    {
+      "name": "Remada Curvada Barra",
+      "comments": "4x6"
+    },
+    {
+      "name": "Puxada Costas Frente",
+      "comments": "3x8"
+    },
+    {
+      "name": "Remada Serrote Halteres",
+      "comments": "3x8"
+    },
+    {
+      "name": "Encolhimento Barra",
+      "comments": "3x10"
+    },
+    {
+      "name": "Rosca Direta Barra",
+      "comments": "3x8"
+    },
+    {
+      "name": "Rosca Scott",
+      "comments": "3x10"
+    },
+    {
+      "name": "Rosca Punho Barra",
+      "comments": "3x15"
+    }
+  ],
+  "LG-226": [
+    {
+      "name": "Agachamento Livre",
+      "comments": "4x6"
+    },
+    {
+      "name": "Leg Press 45",
+      "comments": "3x8"
+    },
+    {
+      "name": "Stiff Barra",
+      "comments": "3x8"
+    },
+    {
+      "name": "Elevacao Pelvica Barra",
+      "comments": "3x8"
+    },
+    {
+      "name": "Flexora",
+      "comments": "3x10"
+    },
+    {
+      "name": "Extensora",
+      "comments": "3x10"
+    },
+    {
+      "name": "Panturrilha Standing",
+      "comments": "4x12"
+    },
+    {
+      "name": "Prancha",
+      "comments": "3x45s"
+    }
+  ],
+  "FU-236": [
+    {
+      "name": "Agachamento com Power Bag (goblet)",
+      "comments": "3x12"
+    },
+    {
+      "name": "TRX Remada",
+      "comments": "3x12"
+    },
+    {
+      "name": "Swing com Kettlebell",
+      "comments": "3x15"
+    },
+    {
+      "name": "TRX Flexao de Bracos",
+      "comments": "3x10"
+    },
+    {
+      "name": "Passada com Halteres",
+      "comments": "3x10 cada"
+    },
+    {
+      "name": "Corda Naval Ondas Alternadas",
+      "comments": "3x30s"
+    }
+  ],
+  "FU-237": [
+    {
+      "name": "TRX Remada",
+      "comments": "4x10-12"
+    },
+    {
+      "name": "TRX Flexao de Bracos (pes exit)",
+      "comments": "4x8-10"
+    },
+    {
+      "name": "Prancha com Remada Alternada",
+      "comments": "3x10 cada"
+    }
+  ],
+  "FU-238": [
+    {
+      "name": "Agachamento com Power Bag (goblet)",
+      "comments": "4x12"
+    },
+    {
+      "name": "Passada com Halteres",
+      "comments": "3x10 cada"
+    },
+    {
+      "name": "Swing com Kettlebell",
+      "comments": "3x15"
+    },
+    {
+      "name": "Mini Band Lateral Walk",
+      "comments": "3x15 cada"
+    }
+  ],
+  "FU-239": [
+    {
+      "name": "Prancha Lateral",
+      "comments": "3x30s cada"
+    },
+    {
+      "name": "Prancha",
+      "comments": "3x45s"
+    }
+  ],
+  "FU-240": [
+    {
+      "name": "Agachamento Salto",
+      "comments": "30s"
+    },
+    {
+      "name": "TRX Remada",
+      "comments": "30s"
+    },
+    {
+      "name": "Mountain Climber",
+      "comments": "30s"
+    },
+    {
+      "name": "Swing com Kettlebell",
+      "comments": "30s"
+    },
+    {
+      "name": "Burpee",
+      "comments": "30s"
+    },
+    {
+      "name": "Corda Naval Ondas Alternadas",
+      "comments": "30s"
+    },
+    {
+      "name": "Prancha",
+      "comments": "30s"
+    },
+    {
+      "name": "Polichinelo",
+      "comments": "30s"
+    }
+  ],
+  "FU-241": [
+    {
+      "name": "Agachamento Peso Corporal",
+      "comments": "3x12"
+    },
+    {
+      "name": "TRX Remada (angulo suave)",
+      "comments": "3x10"
+    },
+    {
+      "name": "Passada sem Carga",
+      "comments": "3x8 cada"
+    },
+    {
+      "name": "Mini Band Lateral Walk",
+      "comments": "3x10 cada"
+    }
+  ],
+  "FU-242": [
+    {
+      "name": "TRX Remada",
+      "comments": "3x12"
+    },
+    {
+      "name": "Agachamento com Power Bag (goblet)",
+      "comments": "3x12"
+    },
+    {
+      "name": "TRX Flexao de Bracos",
+      "comments": "3x10"
+    },
+    {
+      "name": "Swing com Kettlebell",
+      "comments": "3x15"
+    },
+    {
+      "name": "Prancha",
+      "comments": "3x30s"
+    },
+    {
+      "name": "Escada Ritmo Constante",
+      "comments": "5min"
+    }
+  ],
+  "HI-256": [
+    {
+      "name": "Burpee",
+      "comments": "30s"
+    },
+    {
+      "name": "Agachamento Salto",
+      "comments": "30s"
+    },
+    {
+      "name": "Mountain Climber",
+      "comments": "30s"
+    },
+    {
+      "name": "Corda Naval Ondas Alternadas",
+      "comments": "30s"
+    },
+    {
+      "name": "Polichinelo",
+      "comments": "30s"
+    },
+    {
+      "name": "TRX Remada",
+      "comments": "30s"
+    }
+  ],
+  "HI-257": [
+    {
+      "name": "Escada Ritmo Constante",
+      "comments": "30s"
+    },
+    {
+      "name": "Esteira Leve",
+      "comments": "30s"
+    },
+    {
+      "name": "Esteira Moderada",
+      "comments": "30s"
+    },
+    {
+      "name": "Escada Ritmo Constante",
+      "comments": "30s"
+    }
+  ],
+  "HI-258": [
+    {
+      "name": "Agachamento Salto",
+      "comments": "20s"
+    },
+    {
+      "name": "Burpee",
+      "comments": "20s"
+    },
+    {
+      "name": "Mountain Climber",
+      "comments": "20s"
+    },
+    {
+      "name": "Swing com Kettlebell",
+      "comments": "20s"
+    },
+    {
+      "name": "Corda Naval Ondas Alternadas",
+      "comments": "20s"
+    },
+    {
+      "name": "Polichinelo",
+      "comments": "20s"
+    },
+    {
+      "name": "Prancha",
+      "comments": "20s"
+    }
+  ],
+  "HI-259": [
+    {
+      "name": "Agachamento com Power Bag (goblet)",
+      "comments": "40s"
+    },
+    {
+      "name": "TRX Remada",
+      "comments": "40s"
+    },
+    {
+      "name": "Swing com Kettlebell",
+      "comments": "40s"
+    },
+    {
+      "name": "Passada com Halteres",
+      "comments": "40s"
+    },
+    {
+      "name": "Corda Naval Ondas Alternadas",
+      "comments": "40s"
+    },
+    {
+      "name": "Prancha",
+      "comments": "40s"
+    }
+  ],
+  "AE-271": [
+    {
+      "name": "Esteira Leve",
+      "comments": "20min"
+    }
+  ],
+  "AE-272": [
+    {
+      "name": "Esteira Leve",
+      "comments": "3min"
+    },
+    {
+      "name": "Esteira Moderada",
+      "comments": "1min"
+    },
+    {
+      "name": "Esteira Leve",
+      "comments": "3min"
+    }
+  ],
+  "AE-273": [
+    {
+      "name": "Esteira Leve",
+      "comments": "30min"
+    }
+  ],
+  "AE-274": [
+    {
+      "name": "Escada Ritmo Constante",
+      "comments": "10min"
+    }
+  ],
+  "EM-281": [
+    {
+      "name": "Leg Press 45",
+      "comments": "3x15"
+    },
+    {
+      "name": "Supino Maquina Vertical",
+      "comments": "3x12"
+    },
+    {
+      "name": "Remada Baixa Triangulo",
+      "comments": "3x12"
+    },
+    {
+      "name": "Elevacao Pelvica",
+      "comments": "3x15"
+    },
+    {
+      "name": "Desenvolvimento Halteres",
+      "comments": "3x12"
+    },
+    {
+      "name": "Mountain Climber",
+      "comments": "3x20 cada"
+    },
+    {
+      "name": "Prancha",
+      "comments": "3x30s"
+    }
+  ],
+  "EM-282": [
+    {
+      "name": "Agachamento Peso Corporal",
+      "comments": "3x12"
+    },
+    {
+      "name": "Supino Inclin Halteres",
+      "comments": "3x12"
+    },
+    {
+      "name": "Remada Curvada Barra",
+      "comments": "3x12"
+    },
+    {
+      "name": "Passada com Halteres",
+      "comments": "3x10 cada"
+    },
+    {
+      "name": "Desenvolvimento Halteres",
+      "comments": "3x12"
+    },
+    {
+      "name": "Swing com Kettlebell",
+      "comments": "3x15"
+    },
+    {
+      "name": "TRX Remada",
+      "comments": "3x12"
+    },
+    {
+      "name": "Prancha",
+      "comments": "3x30s"
+    }
+  ],
+  "EM-283": [
+    {
+      "name": "Leg Press 45",
+      "comments": "3x15"
+    },
+    {
+      "name": "TRX Flexao de Bracos",
+      "comments": "3x10"
+    },
+    {
+      "name": "TRX Remada",
+      "comments": "3x12"
+    },
+    {
+      "name": "Corda Naval Ondas Alternadas",
+      "comments": "3x30s"
+    },
+    {
+      "name": "Elevacao Pelvica",
+      "comments": "3x15"
+    },
+    {
+      "name": "Burpee",
+      "comments": "3x8"
+    },
+    {
+      "name": "Prancha",
+      "comments": "3x30s"
+    }
+  ],
+  "EM-284": [
+    {
+      "name": "Leg Press 45",
+      "comments": "3x12"
+    },
+    {
+      "name": "Supino Maquina Vertical",
+      "comments": "3x12"
+    },
+    {
+      "name": "Remada Baixa Triangulo",
+      "comments": "3x12"
+    },
+    {
+      "name": "Elevacao Pelvica",
+      "comments": "3x12"
+    },
+    {
+      "name": "Desenvolvimento Halteres",
+      "comments": "2x12"
+    },
+    {
+      "name": "Prancha",
+      "comments": "3x15-20s"
+    }
+  ],
+  "EM-285": [
+    {
+      "name": "Agachamento com Power Bag (goblet)",
+      "comments": "3x12"
+    },
+    {
+      "name": "TRX Remada",
+      "comments": "3x12"
+    },
+    {
+      "name": "Swing com Kettlebell",
+      "comments": "3x15"
+    },
+    {
+      "name": "TRX Flexao de Bracos",
+      "comments": "3x10"
+    },
+    {
+      "name": "Passada com Halteres",
+      "comments": "3x10 cada"
+    },
+    {
+      "name": "Mini Band Lateral Walk",
+      "comments": "3x12 cada"
+    },
+    {
+      "name": "Mountain Climber",
+      "comments": "3x20 cada"
+    }
+  ]
+}
