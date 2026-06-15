@@ -1185,7 +1185,10 @@ if aba == "Montar Ficha":
             "recomendacoes": resultado["recomendacoes"]
         }
         
-        from portal.pdf_generator import generate_a4_pdf, generate_thermal_pdf
+        try:
+            from portal.pdf_generator import generate_a4_pdf, generate_thermal_pdf
+        except ModuleNotFoundError:
+            from pdf_generator import generate_a4_pdf, generate_thermal_pdf
         
         try:
             a4_pdf_bytes = generate_a4_pdf(pdf_data)
