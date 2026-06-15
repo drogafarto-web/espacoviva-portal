@@ -31,7 +31,12 @@ WORKOUT_URL = "https://workoutservice-api.prd.g.actuar.cloud"
 WORKOUT_HOST = "workoutservice-api.prd.g.actuar.cloud"
 WORKOUT_IP = "34.8.55.176"
 TOKEN_FILE = Path(
-    os.environ.get("ACTUAR_TOKEN_FILE", r"C:\musculação\scripts\token_state.json")
+    os.environ.get(
+        "ACTUAR_TOKEN_FILE",
+        r"C:\musculação\scripts\token_state.json"
+        if os.name == "nt"
+        else str(Path(__file__).parent / "token_state.json")
+    )
 )
 EMAIL = "drogafarto@gmail.com"
 SENHA = "Pop12qwer*"
